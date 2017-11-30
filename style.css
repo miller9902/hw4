@@ -1,0 +1,36 @@
+img {
+	width: 100px;
+}
+
+input {
+	width: 100px;
+}
+
+#number {
+	background-color: #BC8F8F;
+	padding: 20px;
+}
+
+#wl {
+	background-color: #87CEEB;
+
+}
+
+#score {
+	background-color: #4682B4;
+	padding: 20px;
+}
+
+body {
+	background-image: url("http://www.pptback.com/uploads/black-floral-patterns-backgrounds-powerpoint.jpg");
+}
+
+#title {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#jumbo {
+	padding-bottom: 0px;
+	padding-top: 10px;
+}
